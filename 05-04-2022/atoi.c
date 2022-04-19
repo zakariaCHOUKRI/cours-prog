@@ -5,8 +5,8 @@
 int	main()
 {
 	char CH[100] = "2022";
-	char CH = "15 avril";
-	char CH = "avril 2022";
+	//char CH[100] = "15 avril";
+	//char CH[100] = "avril 2022";
 	
 	printf("CH = %d\n", atoi(CH));
 	printf("CH = %d\n", atoi(CH));

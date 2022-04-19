@@ -15,7 +15,7 @@ int	main()
 	while (chaine2[taille2]) taille2++;
 	
 	i = 0;
-	j = 0
+	j = 0;
 	while (chaine1[i])
 	{
 		while (chaine2[j])
